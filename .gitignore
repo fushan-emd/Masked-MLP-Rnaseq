@@ -1,0 +1,38 @@
+﻿# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Temporary
+*.tmp
+*.log
+*.bak
+.DS_Store
+Thumbs.db
+
+# Large raw sequencing/genome files
+*.fastq
+*.fq
+*.fastq.gz
+*.fq.gz
+*.sra
+*.sam
+*.bam
+*.cram
+*.fa
+*.fasta
+*.fa.gz
+*.fasta.gz
+
+# Large model/checkpoint files
+*.pth
+*.pt
+*.ckpt
+
+# Office temporary files
+~$*.xlsx
+~$*.docx
+~$*.pptx
