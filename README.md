@@ -4,6 +4,7 @@ This repository contains processed data, analysis scripts, model outputs, and fi
 
 **Prediction and Functional Analysis of Key Salt-Tolerance Genes in Barley and Wheat Based on Transcriptomics and MLP Model**
 
+<img width="1469" height="761" alt="1" src="https://github.com/user-attachments/assets/642c193f-4cd6-4037-bd63-016ee72149bd" />
 ## Project Overview
 
 Soil salinization is a major abiotic stress that restricts crop growth and yield. This project integrates barley and wheat salt-stress transcriptome datasets and applies a Masked MLP model, SHAP interpretation, multi-model voting, comparative genomics, Ka/Ks analysis, promoter cis-element analysis, and qRT-PCR validation to identify candidate salt-responsive genes in barley and wheat.
